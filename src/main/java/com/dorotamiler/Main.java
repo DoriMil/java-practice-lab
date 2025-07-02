@@ -8,10 +8,10 @@ public class Main {
 //        System.out.println(WhoLikesIt.solution1("Peter"));
 //        System.out.println(WhoLikesIt.solution2("Peter"));
 //        System.out.println(WhoLikesIt.solution3("Peter"));
-
-        System.out.println(StringCompressor.compress("aabbbbtggfgu"));
-        System.out.println(StringCompressor.compress("aabbbbtgg"));
-        System.out.println(StringCompressor.compress("ab"));
-
+//
+//        System.out.println(StringCompressor.compress("aabbbbtggfgu"));
+//        System.out.println(StringCompressor.compress("aabbbbtgg"));
+//        System.out.println(StringCompressor.compress("ab"));
+        System.out.println(Persistance.persistence(25));
     }
 }
