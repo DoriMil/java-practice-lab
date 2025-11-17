@@ -5,6 +5,7 @@ import static com.dorotamiler.hackerrank.UniquePairs.countUniquePairs;
 public class Main {
 
     public static void main(String[] args) {
-        countUniquePairs();
+        // UniquePairs
+        // countUniquePairs();
     }
 }
